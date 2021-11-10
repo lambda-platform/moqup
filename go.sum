@@ -28,6 +28,7 @@ github.com/labstack/gommon v0.3.0 h1:JEeO0bvc78PKdyHxloTKiF8BD5iGrH8T6MSeGvSgob0
 github.com/labstack/gommon v0.3.0/go.mod h1:MULnywXg0yavhxWKc+lOruYdAhDwPK9wf0OL7NoOu+k=
 github.com/lambda-platform/lambda v0.2.0 h1:uBmZ29GeItFcbu9pi3N7hOcX3JwpYAGHAd1Wbz+VKuE=
 github.com/lambda-platform/lambda v0.2.0/go.mod h1:WS294QklzjKjLNhNGSYYbIBcq7v/n8jC++XXaqwSWyY=
+github.com/lambda-platform/template v0.2.0/go.mod h1:h6z6/tJlJsv86Ble6OBZi/2c3tfcaLFtn7q0H4obHts=
 github.com/lib/pq v1.1.1 h1:sJZmqHoEaY7f+NPP8pgLB/WxulyR3fewgCM2qaSlBb4=
 github.com/lib/pq v1.1.1/go.mod h1:5WUZQaWbwv1U+lTReE5YruASi9Al49XbQIvNi/34Woo=
 github.com/mattn/go-colorable v0.1.2/go.mod h1:U0ppj6V5qS13XJ6of8GYAs25YV2eR4EVcfRqFIhoBtE=
