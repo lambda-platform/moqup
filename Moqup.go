@@ -6,7 +6,7 @@ import (
 	"github.com/lambda-platform/moqup/utils"
 	"github.com/labstack/echo/v4"
 	lambdaUtils "github.com/lambda-platform/lambda/utils"
-	templateUtils "github.com/lambda-platform/template/utils"
+	templateUtils "github.com/lambda-platform/moqup/utils"
 )
 
 
